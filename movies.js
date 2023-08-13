@@ -597,7 +597,18 @@ const allMovies = [
     title: "Shrek",
     image: "shrek.jpg",
     imdb_url: "https://www.imdb.com/title/tt0126029/",
+  },
+  {
+    id: 94,
+    title: "Anchorman",
+    image: "anchorman.jpg",
+    imdb_url: "https://www.imdb.com/title/tt0357413/",
+  },
+  {
+    id: 95,
+    title: "Guardians of the Galaxy Vol. 3",
+    image: "guardians-of-the-galaxy-vol-3.jpg",
+    imdb_url: "https://www.imdb.com/title/tt6791350/",
+    date_watched: "2023-08-12"
   }
 ];
-
-
