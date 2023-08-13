@@ -16,3 +16,4 @@ As this is a simple .html page I am using the Live Server extension in VS Code t
 #### Future Plans
 
 - Use the IMDB API to automatically pull in the images, titles and any other future information that may be used as this is expanded. This will also avoid overheads of having to manually store the images and JSON file.
+- Consider converting to a NextJS project
