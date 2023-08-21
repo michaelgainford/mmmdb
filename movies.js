@@ -610,5 +610,11 @@ const allMovies = [
     image: "guardians-of-the-galaxy-vol-3.jpg",
     imdb_url: "https://www.imdb.com/title/tt6791350/",
     date_watched: "2023-08-12"
+  },
+  {
+    id: 96,
+    title: "The Good Dinosaur",
+    image: "the-good-dinosaur.jpg",
+    imdb_url: "https://www.imdb.com/title/tt1979388/",
   }
 ];
